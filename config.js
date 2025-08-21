@@ -6,7 +6,7 @@ const darkConfig = {
   // ⛧ 𝐎𝐖𝐍𝐄𝐑 𝐂𝐎𝐍𝐅𝐈𝐆
   owners: [
   {
-    "name": "⛧ 𝐇𝐄𝐔𝐊𝐉𝐈𝐍 ⛧",
+    "name": "⛧KING⛧",
     "number": "918108742384",
     "isPrimary": true,
     "socials": {
